@@ -8,4 +8,10 @@ UpGradEducation
 15 
 
 Solution :->
-  
+  var stringOne = "UpGrad";
+var stringTwo = "Education";
+var newstring=stringOne+stringTwo;
+// Print stringOne followed by stringTwo
+console.log(newstring);
+// Also find out the number of alphabets in the combined string, which is the one printed above
+console.log(newstring.length);
