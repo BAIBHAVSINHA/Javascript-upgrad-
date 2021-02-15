@@ -4,3 +4,7 @@ Question :->
 Sample Output: Jupiter 
 
 Solution :->
+  var planet;
+planet = "Jupiter";
+// Print the variable here
+console.log(planet);
