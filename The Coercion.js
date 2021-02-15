@@ -4,4 +4,4 @@ Question : ->
 Sample
 Output: 6upgrad23upgrad21
 
-Solution : ->
+Solution : ->console.log(2*3 + "upgrad"+2+3 + "upgrad"+2+1);
