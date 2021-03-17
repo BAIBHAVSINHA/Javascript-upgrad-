@@ -5,9 +5,7 @@
 <body>
 
 <h2>Testing</h2>
-
 <p>Click the button to add a red background color to id="London".</p>
-
 <p>
 <button onclick="w3.addStyle('#London','background-color','red')">Add Style</button>
 </p>
